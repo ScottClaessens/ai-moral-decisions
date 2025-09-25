@@ -1,0 +1,601 @@
+id,domain,item,intelligence,empathy,quickly,transparently,difficult,good_outcomes,harm,unfair_outcomes
+1,Justice,Who police should stop and search,2,6,6,6,6,6,6,6
+1,Social media,Whether social media users are mental health risks,6,4,6,6,4,5,5,6
+1,Government,Which environmental policies to implement,6,6,2,6,7,6,6,6
+2,Business,The salary to offer prospective employees,6,5,4,7,4,5,NA,6
+2,Disaster relief,How to allocate volunteers after natural disasters,6,6,7,7,6,7,4,4
+2,Finance,Which premiums to set in insurance policies,6,5,4,7,5,6,4,4
+3,Business,Whether to extend an employee’s contract,2,4,4,2,5,4,5,5
+3,Military,Which areas to target in military operations,2,2,6,6,7,4,6,4
+3,Disaster relief,Who should receive medical treatment after natural disasters,2,6,6,3,6,4,5,5
+4,Justice,Whether to release convicted criminals from jail,7,7,7,7,7,7,7,7
+4,Healthcare,Who gets an organ transplant,5,7,7,7,7,7,7,7
+4,Finance,Whether to invest in particular stocks,5,4,5,3,1,4,5,5
+5,Business,Who to invite to a job interview,5,4,3,6,5,6,3,3
+5,Disaster relief,Who to evacuate during natural disasters,7,4,7,5,7,5,7,6
+5,Education,Which students should receive disciplinary action,4,6,2,7,6,1,7,7
+6,Justice,Whether to grant parole to prisoners,5,5,3,5,5,5,5,5
+6,Social media,Which online content to remove as misinformation,5,5,5,5,6,6,6,5
+6,Government,Who qualifies for government welfare programs,7,7,5,7,7,6,6,7
+7,Transport,Whether to prioritise the safety of passengers or pedestrians in a car accident,3,5,6,4,5,2,4,5
+7,Business,Who to hire for a job,5,4,3,7,6,6,2,4
+7,Government,Which environmental policies to implement,5,4,4,3,4,5,4,3
+8,Justice,Whether to release convicted criminals from jail,5,6,2,7,6,4,7,5
+8,Finance,Whether to invest in particular stocks,4,3,4,5,5,6,5,3
+8,Education,Which students to admit to schools and universities,7,4,2,6,5,7,5,7
+9,Justice,Which personalized rehabilitation programs to offer to offenders,7,6,2,7,7,7,5,7
+9,Military,How to allocate medical resources on the battlefield,7,6,7,7,7,7,7,5
+9,Finance,Whether to offer loans to small businesses,6,7,3,7,5,7,3,5
+10,Justice,Which neighborhoods should have more police patrols,6,6,5,4,5,7,7,6
+10,Disaster relief,Where to allocate resources after natural disasters,6,7,7,4,7,7,7,7
+10,Social media,Which online videos to remove as deep fakes,6,5,5,4,5,6,7,5
+11,Military,Whether to use lethal or non-lethal force in military operations,7,7,7,7,7,5,7,5
+11,Disaster relief,How to allocate volunteers after natural disasters,7,7,7,7,6,7,7,6
+11,Government,How to allocate public healthcare funding,7,7,4,6,6,7,4,4
+12,Transport,Whether to override a human driver's commands for safety reasons,6,5,7,7,5,6,6,6
+12,Justice,Whether to release convicted criminals from jail,5,7,2,7,7,5,5,6
+12,Healthcare,Whether to perform a surgery,6,7,4,7,6,7,6,6
+13,Business,Who to hire for a job,6,4,3,6,4,5,3,4
+13,Business,Who gets promoted within a company,6,4,3,7,5,6,3,5
+13,Government,Which environmental policies to implement,5,6,3,5,4,6,5,4
+14,Business,Who to invite to a job interview,5,1,1,2,4,4,1,5
+14,Military,How to allocate medical resources on the battlefield,6,6,7,5,7,7,7,7
+14,Government,Which environmental policies to implement,4,6,3,4,5,4,2,6
+15,Transport,Which areas should have more traffic enforcement,2,2,7,7,2,6,2,1
+15,Healthcare,Who gets an organ transplant,5,7,7,7,3,7,6,2
+15,Government,Which environmental policies to implement,6,5,5,7,4,6,3,3
+16,Education,Which students to admit to schools and universities,7,7,2,7,7,7,7,7
+16,Education,Which career paths to recommend to students,2,1,2,4,5,7,1,3
+16,Education,Which students should receive disciplinary action,7,7,5,7,6,4,5,6
+17,Healthcare,Whether to perform a surgery,7,6,6,6,6,4,5,5
+17,Military,How to allocate medical resources on the battlefield,7,6,5,5,6,5,7,5
+17,Disaster relief,Where to deploy rescue teams after natural disasters,7,6,6,6,7,6,6,5
+18,Healthcare,When to withdraw life support,7,7,1,7,7,1,7,6
+18,Disaster relief,Who to evacuate during natural disasters,2,6,7,5,7,5,5,5
+18,Social media,Which social media accounts to ban for harmful behavior,5,2,4,5,2,7,2,1
+19,Military,How to allocate medical resources on the battlefield,7,7,7,7,7,5,4,4
+19,Government,Who gets audited for tax fraud,5,2,2,4,5,4,4,4
+19,Education,Which students to admit to schools and universities,6,7,4,5,6,6,4,4
+20,Healthcare,Whether to perform a surgery,7,6,5,6,6,7,7,7
+20,Healthcare,Who to allocate ventilators to,6,6,7,5,5,7,7,7
+20,Finance,Who qualifies for mortgage approval,5,5,3,6,4,6,6,7
+21,Justice,Which personalized rehabilitation programs to offer to offenders,7,6,5,5,5,5,3,4
+21,Business,The salary to offer prospective employees,6,6,3,5,5,6,6,7
+21,Disaster relief,Who should receive medical treatment after natural disasters,7,7,7,6,7,7,6,7
+22,Healthcare,Who to allocate ventilators to,7,7,7,7,7,5,5,6
+22,Military,Whether to launch cyber counterattacks,7,2,7,3,6,6,6,6
+22,Finance,Whether to invest in particular stocks,5,1,3,2,4,5,1,2
+23,Military,Whether to use lethal or non-lethal force in military operations,6,4,7,7,6,4,4,4
+23,Social media,Which online videos to remove as deep fakes,5,4,5,6,6,4,4,5
+23,Education,Which students should receive disciplinary action,5,5,5,6,5,4,4,5
+24,Military,Which areas to target in military operations,7,6,6,6,7,4,7,7
+24,Finance,Whether to offer loans to individuals,6,6,7,7,7,5,7,7
+24,Education,Which career paths to recommend to students,7,7,4,7,7,7,5,7
+25,Healthcare,When to withdraw life support,5,6,3,7,6,6,6,4
+25,Military,Where to fire missiles in military operations,6,5,7,6,7,5,7,6
+25,Military,Whether to launch cyber counterattacks,6,5,7,5,4,3,5,5
+26,Healthcare,When to withdraw life support,7,7,1,7,7,2,7,6
+26,Finance,Who qualifies for mortgage approval,5,3,5,7,3,6,3,3
+26,Finance,Which customers receive credit card limit increases,4,2,6,6,2,5,2,2
+27,Military,Whether to authorise drone strikes,6,6,4,6,6,5,7,6
+27,Finance,Who qualifies for mortgage approval,5,4,5,4,5,6,5,6
+27,Education,Which students should receive scholarships,5,4,3,3,5,6,4,7
+28,Healthcare,Who gets an organ transplant,6,7,7,7,7,7,7,7
+28,Military,Whether to use lethal or non-lethal force in military operations,6,7,6,7,7,3,7,7
+28,Finance,Whether to invest in particular stocks,6,2,6,5,6,6,6,2
+29,Transport,Which areas should have more traffic enforcement,7,1,4,7,4,6,1,1
+29,Government,Who to target with political messaging,7,7,1,7,4,7,1,1
+29,Education,Which grades to give students,7,7,1,7,7,7,1,1
+30,Transport,Which pedestrian to hit in a car accident,7,7,7,7,7,2,7,4
+30,Business,The salary to offer prospective employees,5,5,4,7,5,5,2,4
+30,Finance,Whether to offer loans to small businesses,6,5,5,7,5,6,2,4
+31,Transport,Whether to prioritise the safety of passengers or pedestrians in a car accident,5,6,7,6,6,5,5,5
+31,Justice,Which neighborhoods should have more police patrols,5,6,4,5,3,6,4,5
+31,Disaster relief,Where to deploy rescue teams after natural disasters,6,4,7,5,6,6,4,4
+32,Transport,Whether to prioritise the safety of passengers or pedestrians in a car accident,4,4,6,6,5,6,5,4
+32,Disaster relief,How to allocate volunteers after natural disasters,4,7,6,6,5,7,4,4
+32,Education,Which career paths to recommend to students,5,5,3,5,4,6,4,4
+33,Healthcare,Which personalised treatments to recommend to patients,6,4,5,6,5,6,5,4
+33,Business,Who to lay off during company downsizing,6,6,4,7,6,4,6,6
+33,Social media,Which social media accounts to ban for harmful behavior,5,5,4,6,4,5,6,6
+34,Justice,Whether to release convicted criminals from jail,6,7,2,6,7,5,7,7
+34,Justice,Which neighborhoods should have more police patrols,7,1,1,7,6,7,7,7
+34,Business,The salary to offer prospective employees,6,5,5,6,7,7,6,5
+35,Justice,Who police should stop and search,3,5,6,6,5,5,4,5
+35,Government,How to allocate public healthcare funding,6,3,5,7,6,6,6,6
+35,Finance,Whether to offer loans to small businesses,5,5,3,5,4,6,4,5
+36,Healthcare,Who should receive mental health support,6,7,2,4,5,7,7,7
+36,Social media,Which online videos to remove as deep fakes,7,3,5,5,6,7,6,6
+36,Social media,How to moderate online discussions on controversial topics,3,3,5,7,6,4,5,7
+37,Business,Who to invite to a job interview,6,6,3,5,4,6,2,6
+37,Social media,Which news articles to present to users on social media,6,3,5,5,2,4,3,2
+37,Education,Which career paths to recommend to students,6,3,3,5,2,6,4,3
+38,Justice,Which neighborhoods should have more police patrols,5,6,3,6,5,7,7,7
+38,Government,Who gets audited for tax fraud,6,4,3,5,6,7,7,7
+38,Finance,Whether to offer loans to individuals,3,6,4,5,5,7,7,7
+39,Business,Who to lay off during company downsizing,7,4,2,7,7,7,5,4
+39,Disaster relief,Where to deploy rescue teams after natural disasters,7,4,7,7,7,5,5,5
+39,Finance,Whether to offer loans to small businesses,5,4,3,6,3,6,2,2
+40,Transport,Which pedestrian to hit in a car accident,7,7,7,7,7,1,7,7
+40,Healthcare,Whether to perform a surgery,7,7,7,7,7,7,6,4
+40,Finance,Which customers receive credit card limit increases,6,7,7,7,5,6,6,6
+41,Transport,Whether to prioritise the safety of passengers or pedestrians in a car accident,7,7,7,5,7,5,7,6
+41,Business,Who gets promoted within a company,7,6,3,6,5,6,3,6
+41,Finance,Whether to offer loans to individuals,6,6,3,6,6,6,6,6
+42,Healthcare,Who should receive mental health support,6,7,4,7,6,6,4,3
+42,Business,Who to hire for a job,6,6,2,7,6,6,3,4
+42,Business,Who gets promoted within a company,6,5,4,7,6,7,3,4
+43,Social media,Which news articles to present to users on social media,3,3,3,4,3,4,3,2
+43,Government,Who to target with political messaging,5,4,4,5,4,4,4,4
+43,Finance,Whether to invest in particular stocks,6,4,5,5,5,5,4,4
+44,Transport,Which pedestrian to hit in a car accident,1,7,1,1,7,1,7,7
+44,Healthcare,Who to allocate ventilators to,5,7,7,6,7,4,4,5
+44,Business,The salary to offer prospective employees,6,1,1,6,1,7,1,4
+45,Healthcare,When to withdraw life support,6,7,5,6,7,3,4,5
+45,Military,Whether to authorise drone strikes,6,6,6,6,7,4,7,5
+45,Education,Which career paths to recommend to students,5,5,3,5,4,6,6,6
+46,Military,Where to fire missiles in military operations,7,1,7,7,7,4,7,4
+46,Government,Who qualifies for government welfare programs,7,4,7,7,4,4,4,4
+46,Finance,Whether to offer loans to individuals,7,4,7,7,4,4,4,4
+47,Healthcare,Whether to perform a surgery,5,6,6,5,4,5,5,5
+47,Healthcare,Who should receive mental health support,5,6,3,5,5,6,4,6
+47,Disaster relief,Where to deploy rescue teams after natural disasters,5,6,4,5,6,4,5,5
+48,Military,Whether to authorise drone strikes,6,5,5,6,6,5,7,5
+48,Government,How to allocate public healthcare funding,6,7,3,6,6,6,5,6
+48,Finance,Whether to invest in particular stocks,6,2,2,5,4,6,4,3
+49,Disaster relief,Where to allocate resources after natural disasters,6,6,6,6,6,6,6,6
+49,Government,Which environmental policies to implement,6,6,5,5,5,6,5,4
+49,Education,Which students require additional academic support,5,5,5,6,5,6,5,6
+50,Transport,Which pedestrian to hit in a car accident,7,7,7,7,7,1,7,7
+50,Finance,Whether to offer loans to individuals,6,3,6,7,6,7,5,7
+50,Finance,Which premiums to set in insurance policies,6,3,7,7,5,7,5,7
+51,Healthcare,Whether to perform a surgery,6,7,5,6,7,7,7,5
+51,Disaster relief,Where to deploy rescue teams after natural disasters,7,6,6,7,7,7,7,5
+51,Government,Which environmental policies to implement,5,6,5,7,6,7,7,5
+52,Transport,Whether to prioritise the safety of passengers or pedestrians in a car accident,5,5,4,6,7,4,7,5
+52,Business,Who to lay off during company downsizing,6,7,3,6,7,3,5,7
+52,Finance,Whether to invest in particular stocks,6,2,4,6,5,4,4,2
+53,Transport,How to allocate ridesharing vehicles to customers,5,5,4,6,5,5,4,5
+53,Transport,Whether to override a human driver's commands for safety reasons,6,6,6,6,6,6,7,5
+53,Justice,Which neighborhoods should have more police patrols,6,6,6,6,5,6,5,6
+54,Social media,Whether social media users are mental health risks,7,7,7,7,5,6,6,6
+54,Finance,Which customers receive credit card limit increases,5,2,7,6,4,6,2,5
+54,Education,Which students to admit to schools and universities,6,3,6,6,7,7,2,6
+55,Military,Whether to launch cyber counterattacks,6,4,5,6,6,4,6,5
+55,Education,Which students require additional academic support,7,6,4,6,3,6,6,5
+55,Education,Which career paths to recommend to students,5,6,3,6,6,6,4,4
+56,Healthcare,Who to allocate ventilators to,6,6,6,6,6,6,5,5
+56,Healthcare,Which personalised treatments to recommend to patients,6,6,6,6,6,6,5,5
+56,Business,The salary to offer prospective employees,6,5,5,6,5,6,5,6
+57,Healthcare,Whether to perform a surgery,7,7,7,7,7,7,7,7
+57,Healthcare,Who to allocate ventilators to,7,7,7,7,7,7,7,7
+57,Government,Which environmental policies to implement,7,7,5,7,7,7,7,7
+58,Transport,Which areas should have more traffic enforcement,7,1,4,3,2,6,1,4
+58,Business,Whether to extend an employee’s contract,6,7,1,7,6,7,6,5
+58,Education,Which students to admit to schools and universities,7,7,1,6,7,6,3,5
+59,Justice,Whether to release convicted criminals from jail,7,6,3,7,6,5,6,6
+59,Business,Who gets promoted within a company,7,6,2,5,6,6,3,4
+59,Military,Whether to launch cyber counterattacks,7,6,5,3,6,3,7,4
+60,Justice,Whether to release convicted criminals from jail,7,7,5,7,7,6,7,6
+60,Business,Who to hire for a job,7,6,5,7,7,7,2,4
+60,Education,Which students require additional academic support,7,7,5,7,6,7,3,4
+61,Healthcare,Who gets an organ transplant,6,4,4,7,5,6,6,6
+61,Disaster relief,Where to deploy rescue teams after natural disasters,7,2,7,7,4,7,5,5
+61,Finance,Which premiums to set in insurance policies,2,5,3,6,3,5,5,6
+62,Healthcare,Who to allocate ventilators to,7,6,4,7,7,6,7,7
+62,Military,Whether to use lethal or non-lethal force in military operations,7,7,7,6,7,7,7,7
+62,Disaster relief,Who should receive medical treatment after natural disasters,7,7,7,7,7,7,7,7
+63,Transport,How to allocate ridesharing vehicles to customers,6,5,6,5,4,5,4,4
+63,Military,Whether to launch cyber counterattacks,5,5,5,6,6,3,4,4
+63,Finance,Which premiums to set in insurance policies,5,4,5,6,3,5,4,4
+64,Government,Who gets audited for tax fraud,5,1,2,2,4,7,2,2
+64,Finance,Whether to invest in particular stocks,7,1,4,4,5,4,2,3
+64,Education,Which career paths to recommend to students,4,2,3,5,4,7,4,3
+65,Transport,Which vehicles get priority at traffic lights and intersections,6,2,6,7,2,6,7,2
+65,Disaster relief,Who should receive medical treatment after natural disasters,6,3,7,7,6,6,6,6
+65,Finance,Whether to offer loans to small businesses,3,2,2,6,2,5,5,3
+66,Military,Where to fire missiles in military operations,7,7,6,5,7,3,7,7
+66,Military,Whether to launch cyber counterattacks,7,4,6,6,5,4,5,4
+66,Military,Whether to use lethal or non-lethal force in military operations,7,7,7,6,6,3,7,6
+67,Transport,How to allocate ridesharing vehicles to customers,4,5,5,5,2,5,1,3
+67,Military,Where to fire missiles in military operations,7,7,7,7,7,4,7,7
+67,Education,Which students to admit to schools and universities,7,7,7,7,6,6,4,4
+68,Justice,Whether to release convicted criminals from jail,6,6,1,7,7,5,7,7
+68,Education,Which students to admit to schools and universities,4,5,2,7,6,6,7,7
+68,Education,Which career paths to recommend to students,7,7,1,7,6,7,7,7
+69,Business,Whether to extend an employee’s contract,6,4,2,7,6,5,6,6
+69,Social media,How to moderate online discussions on controversial topics,5,6,4,6,4,6,6,6
+69,Finance,Who qualifies for mortgage approval,6,4,2,7,5,6,5,5
+70,Justice,The length of jail sentences for criminals,4,3,4,6,4,5,3,4
+70,Healthcare,Whether to perform a surgery,6,7,6,6,5,6,6,5
+70,Finance,Which customers receive credit card limit increases,5,3,3,6,5,6,6,5
+71,Transport,Which pedestrian to hit in a car accident,5,5,7,1,7,5,7,7
+71,Business,Who to lay off during company downsizing,6,7,4,6,7,3,6,7
+71,Disaster relief,How to allocate volunteers after natural disasters,6,5,6,5,7,7,7,7
+72,Business,Who to lay off during company downsizing,5,7,5,4,7,5,6,7
+72,Disaster relief,Who gets priority access to shelters after natural disasters,5,7,7,6,5,7,6,7
+72,Government,Who qualifies for government welfare programs,5,5,7,7,7,6,7,4
+73,Healthcare,Which personalised treatments to recommend to patients,7,7,5,6,6,7,7,6
+73,Disaster relief,Where to allocate resources after natural disasters,7,7,7,7,7,7,7,7
+73,Education,Which career paths to recommend to students,6,6,3,5,5,7,5,5
+74,Business,Who to invite to a job interview,5,4,6,6,3,7,2,5
+74,Military,Where to fire missiles in military operations,7,7,4,4,7,1,7,4
+74,Finance,Who qualifies for mortgage approval,1,1,7,4,1,7,3,3
+75,Justice,The length of jail sentences for criminals,6,6,7,7,6,6,4,4
+75,Social media,Which social media accounts to ban for harmful behavior,5,3,7,6,4,7,1,3
+75,Education,Which career paths to recommend to students,6,5,3,7,5,7,2,3
+76,Justice,Which personalized rehabilitation programs to offer to offenders,7,4,1,5,7,7,7,7
+76,Business,Whether to extend an employee’s contract,7,7,1,7,5,7,7,7
+76,Social media,Which news articles to present to users on social media,4,4,5,5,2,6,6,6
+77,Transport,Which vehicles get priority at traffic lights and intersections,7,7,2,7,5,7,1,7
+77,Justice,Which neighborhoods should have more police patrols,4,5,1,4,1,5,1,5
+77,Social media,Which news articles to present to users on social media,7,7,3,5,2,5,1,5
+78,Government,How to allocate public healthcare funding,6,6,5,6,6,5,5,5
+78,Finance,Who qualifies for mortgage approval,6,5,4,6,5,5,5,5
+78,Education,Which career paths to recommend to students,6,5,4,6,5,5,5,4
+79,Transport,Whether to override a human driver's commands for safety reasons,5,4,7,6,4,7,4,7
+79,Disaster relief,Who should receive medical treatment after natural disasters,6,7,7,6,7,7,7,5
+79,Finance,Whether to offer loans to small businesses,6,5,2,6,5,7,5,5
+80,Healthcare,When to withdraw life support,4,7,1,3,6,4,5,4
+80,Business,Who to invite to a job interview,5,3,4,5,5,7,4,7
+80,Disaster relief,Who to evacuate during natural disasters,6,6,7,7,7,6,6,6
+81,Transport,How to allocate ridesharing vehicles to customers,6,4,5,6,5,6,3,5
+81,Government,Which environmental policies to implement,6,4,5,6,5,6,5,4
+81,Education,Which career paths to recommend to students,5,6,4,5,5,6,4,4
+82,Government,Which refugees should be given asylum,5,7,5,7,5,6,5,5
+82,Finance,Which premiums to set in insurance policies,6,3,3,7,5,3,5,5
+82,Education,Which students require additional academic support,5,7,6,7,5,7,5,6
+83,Healthcare,Who gets an organ transplant,7,7,7,7,7,7,4,4
+83,Social media,Which news articles to present to users on social media,7,7,4,7,5,4,4,4
+83,Government,Who gets audited for tax fraud,7,1,4,7,4,5,4,3
+84,Transport,Whether to prioritise the safety of passengers or pedestrians in a car accident,6,4,7,6,5,6,5,5
+84,Transport,Whether to override a human driver's commands for safety reasons,6,3,7,5,7,7,5,6
+84,Government,Who gets audited for tax fraud,6,2,6,6,5,5,5,4
+85,Business,Who to lay off during company downsizing,5,5,4,6,6,4,5,7
+85,Military,How to allocate medical resources on the battlefield,6,6,7,5,6,6,7,6
+85,Disaster relief,Who gets priority access to shelters after natural disasters,6,7,6,5,5,5,6,7
+86,Justice,Who police should stop and search,7,7,7,7,7,4,7,7
+86,Disaster relief,Who gets priority access to shelters after natural disasters,7,7,7,7,7,5,7,7
+86,Social media,Which online content to remove as misinformation,7,3,5,7,4,7,4,4
+87,Justice,Which neighborhoods should have more police patrols,5,6,4,7,5,7,3,6
+87,Government,How to allocate public healthcare funding,6,6,5,7,7,6,5,6
+87,Education,Which students should receive disciplinary action,4,6,NA,6,5,4,7,6
+88,Disaster relief,Who to evacuate during natural disasters,6,5,7,6,5,7,6,4
+88,Social media,How to moderate online discussions on controversial topics,6,6,5,6,5,6,2,5
+88,Finance,Whether to invest in particular stocks,5,2,4,4,4,5,3,2
+89,Transport,Which areas should have more traffic enforcement,6,5,5,6,4,5,6,6
+89,Healthcare,Whether to perform a surgery,7,7,5,6,6,7,5,5
+89,Business,The salary to offer prospective employees,5,4,3,6,4,6,5,6
+90,Healthcare,Which personalised treatments to recommend to patients,6,7,5,7,5,7,4,4
+90,Business,Who to lay off during company downsizing,6,7,4,7,7,2,4,5
+90,Disaster relief,Where to deploy rescue teams after natural disasters,6,4,7,6,6,7,4,4
+91,Transport,Whether to prioritise the safety of passengers or pedestrians in a car accident,7,2,7,4,7,2,7,7
+91,Transport,Which vehicles get priority at traffic lights and intersections,7,5,4,3,3,4,7,7
+91,Disaster relief,Who to evacuate during natural disasters,6,7,7,6,7,4,4,5
+92,Justice,Who police should stop and search,5,5,5,6,5,6,5,6
+92,Social media,Which online content to remove as misinformation,5,5,5,7,5,6,5,5
+92,Social media,Which online videos to remove as deep fakes,5,5,7,7,6,7,7,7
+93,Social media,Which social media accounts to ban for harmful behavior,6,1,5,7,6,5,7,7
+93,Finance,Which customers receive credit card limit increases,4,1,1,7,4,4,7,2
+93,Education,Which students require additional academic support,5,3,5,7,5,7,4,4
+94,Military,Whether to launch cyber counterattacks,7,6,5,6,5,3,5,6
+94,Military,Whether to use lethal or non-lethal force in military operations,7,6,6,7,7,3,7,5
+94,Education,Which students require additional academic support,6,7,5,6,6,7,5,3
+95,Justice,Which personalized rehabilitation programs to offer to offenders,7,4,1,7,6,6,5,4
+95,Education,Which students require additional academic support,7,7,1,7,7,7,3,2
+95,Education,Which students should receive scholarships,7,7,1,7,6,7,2,3
+96,Transport,Which vehicles get priority at traffic lights and intersections,5,4,6,4,2,5,7,5
+96,Military,How to allocate medical resources on the battlefield,5,4,7,4,5,7,6,6
+96,Government,Who to target with political messaging,3,1,3,2,1,4,3,4
+97,Justice,Which neighborhoods should have more police patrols,6,3,4,5,3,4,4,3
+97,Business,Who gets promoted within a company,5,6,2,5,6,5,3,5
+97,Social media,Which social media accounts to ban for harmful behavior,5,3,4,4,2,7,3,2
+98,Business,Whether to extend an employee’s contract,3,5,3,6,3,6,5,5
+98,Education,Which students require additional academic support,5,5,4,6,5,6,6,6
+98,Education,Which career paths to recommend to students,3,4,3,6,4,6,3,3
+99,Business,Who gets promoted within a company,7,1,6,7,5,6,1,2
+99,Military,Which areas to target in military operations,7,1,7,7,7,6,6,3
+99,Education,Which grades to give students,7,6,6,7,3,6,4,2
+100,Business,Who to lay off during company downsizing,7,7,7,7,7,2,7,7
+100,Government,Who to target with political messaging,2,3,2,5,1,2,2,2
+100,Education,Which grades to give students,7,6,6,7,4,7,6,6
+101,Business,The salary to offer prospective employees,7,4,5,7,4,6,3,6
+101,Business,Whether to extend an employee’s contract,2,7,3,7,3,7,4,7
+101,Disaster relief,How to allocate volunteers after natural disasters,7,5,7,5,7,7,4,5
+102,Social media,Which social media accounts to ban for harmful behavior,7,6,5,7,3,6,1,1
+102,Government,Who to target with political messaging,7,7,3,7,5,6,2,2
+102,Finance,Whether to offer loans to small businesses,7,7,5,7,6,7,4,1
+103,Justice,Who police should stop and search,7,5,7,7,6,7,7,7
+103,Social media,Which news articles to present to users on social media,5,2,7,7,3,7,7,7
+103,Finance,Which customers receive credit card limit increases,7,1,4,7,1,7,7,5
+104,Justice,The length of jail sentences for criminals,1,1,7,3,2,6,2,1
+104,Justice,Which neighborhoods should have more police patrols,5,4,5,3,2,5,3,2
+104,Social media,Whether social media users are mental health risks,7,7,3,4,5,5,5,6
+105,Healthcare,Who to allocate ventilators to,4,6,7,5,6,6,7,7
+105,Social media,How to moderate online discussions on controversial topics,5,5,7,5,2,6,5,3
+105,Finance,Whether to invest in particular stocks,7,3,5,4,6,6,7,4
+106,Justice,Whether to grant parole to prisoners,6,5,2,7,6,6,6,7
+106,Military,Which areas to target in military operations,5,5,6,6,7,3,7,7
+106,Social media,Which online content to remove as misinformation,1,1,5,7,4,6,4,6
+107,Government,Who to target with political messaging,4,1,1,7,7,4,1,1
+107,Government,Who gets audited for tax fraud,6,4,4,7,7,4,7,7
+107,Finance,Who qualifies for mortgage approval,3,4,4,7,4,4,4,7
+108,Healthcare,Which personalised treatments to recommend to patients,7,7,7,7,7,7,7,NA
+108,Military,Whether to launch cyber counterattacks,7,1,5,7,6,4,7,7
+108,Government,Who qualifies for government welfare programs,6,2,4,7,2,7,4,5
+109,Justice,Whether to release convicted criminals from jail,5,1,1,7,5,4,1,4
+109,Disaster relief,Where to allocate resources after natural disasters,7,7,6,7,7,5,4,5
+109,Government,How to allocate public healthcare funding,7,5,1,7,7,7,3,6
+110,Transport,Which vehicles get priority at traffic lights and intersections,5,4,6,5,4,5,5,6
+110,Transport,Whether to override a human driver's commands for safety reasons,7,3,7,5,6,5,4,5
+110,Government,Who gets audited for tax fraud,6,1,4,7,3,4,4,5
+111,Military,Whether to use lethal or non-lethal force in military operations,1,1,1,7,7,1,7,7
+111,Social media,Which online content to remove as misinformation,4,7,7,7,1,7,2,6
+111,Finance,Whether to offer loans to small businesses,3,2,4,7,4,7,7,7
+112,Transport,Whether to override a human driver's commands for safety reasons,7,7,6,5,7,6,6,6
+112,Justice,Whether to release convicted criminals from jail,7,7,4,7,7,5,5,5
+112,Education,Which students should receive scholarships,7,7,3,7,7,7,2,7
+113,Justice,Whether to release convicted criminals from jail,6,4,1,7,5,4,5,7
+113,Disaster relief,Who gets priority access to shelters after natural disasters,6,4,6,7,5,6,5,4
+113,Finance,Which premiums to set in insurance policies,5,1,5,6,3,5,3,4
+114,Business,Who to invite to a job interview,6,7,4,6,5,4,6,7
+114,Business,Who gets promoted within a company,5,4,2,2,6,4,4,7
+114,Education,Which students require additional academic support,6,7,3,6,4,5,6,7
+115,Transport,Whether to override a human driver's commands for safety reasons,7,7,7,7,6,7,2,2
+115,Business,Who to invite to a job interview,5,7,3,7,5,6,4,4
+115,Education,Which career paths to recommend to students,6,6,4,7,4,7,3,3
+116,Transport,Whether to override a human driver's commands for safety reasons,5,4,5,6,3,4,2,4
+116,Military,Which areas to target in military operations,3,2,3,6,4,2,4,4
+116,Disaster relief,Who should receive medical treatment after natural disasters,6,5,4,6,7,4,3,3
+117,Healthcare,Which personalised treatments to recommend to patients,7,4,6,7,6,7,7,4
+117,Business,Who to lay off during company downsizing,7,7,1,7,7,7,7,7
+117,Disaster relief,Who should receive medical treatment after natural disasters,5,7,6,7,6,7,7,7
+118,Business,Who gets promoted within a company,7,7,4,6,6,6,3,4
+118,Education,Which grades to give students,7,5,4,6,5,6,3,3
+118,Education,Which students should receive disciplinary action,7,7,4,7,6,6,3,3
+119,Transport,Which areas should have more traffic enforcement,5,5,4,7,3,6,1,1
+119,Justice,The length of jail sentences for criminals,6,6,6,7,6,7,3,3
+119,Justice,Who police should stop and search,6,6,6,7,5,6,1,1
+120,Transport,Which vehicles get priority at traffic lights and intersections,4,2,3,5,4,4,5,6
+120,Justice,Whether to grant parole to prisoners,3,5,2,6,5,6,5,3
+120,Education,Which students should receive scholarships,5,4,3,7,7,6,5,6
+121,Healthcare,Who should receive mental health support,5,7,7,7,6,6,5,5
+121,Business,Who to lay off during company downsizing,5,6,5,6,5,6,4,5
+121,Finance,Whether to offer loans to individuals,5,6,4,6,5,6,4,4
+122,Transport,Which pedestrian to hit in a car accident,6,7,7,7,7,2,6,4
+122,Finance,Who qualifies for mortgage approval,6,6,6,6,7,6,2,4
+122,Education,Which career paths to recommend to students,6,7,1,6,6,7,2,2
+123,Business,The salary to offer prospective employees,5,5,3,6,5,5,3,5
+123,Disaster relief,How to allocate volunteers after natural disasters,6,6,7,6,6,6,5,5
+123,Government,How to allocate public healthcare funding,5,5,5,5,6,5,3,3
+124,Justice,Who police should stop and search,7,6,7,7,5,4,5,6
+124,Military,Whether to authorise drone strikes,7,5,7,7,6,4,7,6
+124,Social media,Which news articles to present to users on social media,6,4,2,6,2,4,5,4
+125,Justice,Whether to release convicted criminals from jail,6,6,2,5,6,7,7,6
+125,Social media,Whether social media users are mental health risks,5,5,5,4,6,3,6,5
+125,Education,Which students should receive scholarships,6,6,2,5,6,6,3,6
+126,Justice,Who police should stop and search,5,6,5,7,6,6,5,7
+126,Military,How to allocate medical resources on the battlefield,7,7,7,7,7,7,7,6
+126,Government,Who qualifies for government welfare programs,5,6,5,7,6,7,4,5
+127,Justice,Whether to grant parole to prisoners,7,7,1,7,7,1,7,7
+127,Healthcare,Who should receive mental health support,7,7,1,7,5,7,7,3
+127,Business,Who gets promoted within a company,6,6,2,7,5,7,3,7
+128,Transport,Whether to prioritise the safety of passengers or pedestrians in a car accident,6,5,6,5,6,4,5,6
+128,Justice,Which personalized rehabilitation programs to offer to offenders,6,5,2,6,4,6,5,6
+128,Healthcare,Which personalised treatments to recommend to patients,7,6,1,6,7,6,7,6
+129,Social media,Which social media accounts to ban for harmful behavior,5,3,7,7,3,7,2,3
+129,Government,Who gets audited for tax fraud,7,4,7,7,6,6,3,5
+129,Finance,Whether to offer loans to small businesses,7,7,4,7,5,6,2,7
+130,Transport,Which vehicles get priority at traffic lights and intersections,7,1,5,5,2,5,5,1
+130,Military,Whether to use lethal or non-lethal force in military operations,7,4,4,7,7,1,7,4
+130,Education,Which grades to give students,6,4,1,7,2,6,1,6
+131,Healthcare,Who gets an organ transplant,6,7,7,5,7,7,7,7
+131,Business,Whether to extend an employee’s contract,6,6,2,6,6,7,6,7
+131,Finance,Whether to invest in particular stocks,7,1,7,2,6,7,7,4
+132,Business,Who to invite to a job interview,7,1,3,7,3,5,1,4
+132,Disaster relief,Who to evacuate during natural disasters,5,4,7,7,7,7,7,7
+132,Education,Which students require additional academic support,7,5,3,7,3,5,4,4
+133,Healthcare,Who gets an organ transplant,5,7,6,5,7,6,6,6
+133,Social media,Which social media accounts to ban for harmful behavior,6,2,5,4,3,5,5,5
+133,Finance,Whether to invest in particular stocks,4,5,3,5,5,6,5,6
+134,Business,The salary to offer prospective employees,7,7,4,5,1,7,1,1
+134,Business,Whether to extend an employee’s contract,7,7,4,7,1,7,1,1
+134,Finance,Whether to offer loans to small businesses,7,7,4,7,1,7,1,1
+135,Healthcare,Which personalised treatments to recommend to patients,7,7,7,5,7,7,5,5
+135,Military,Whether to authorise drone strikes,6,4,7,1,6,4,7,7
+135,Disaster relief,Where to deploy rescue teams after natural disasters,7,7,7,7,7,7,1,3
+136,Business,Who to invite to a job interview,6,2,5,7,6,6,6,6
+136,Government,Which environmental policies to implement,6,4,4,6,5,5,4,5
+136,Education,Which students to admit to schools and universities,6,3,5,7,5,7,6,6
+137,Business,Who to invite to a job interview,3,2,3,5,3,6,2,3
+137,Military,Whether to use lethal or non-lethal force in military operations,6,7,5,5,6,4,7,6
+137,Disaster relief,Who gets priority access to shelters after natural disasters,4,6,5,6,6,6,7,5
+138,Justice,Which neighborhoods should have more police patrols,7,7,4,7,3,5,3,3
+138,Business,Who to invite to a job interview,6,4,4,7,4,5,3,4
+138,Military,Which areas to target in military operations,7,4,3,7,6,4,7,6
+139,Business,Who to hire for a job,7,5,1,4,1,7,7,5
+139,Social media,Which social media accounts to ban for harmful behavior,7,5,5,7,1,5,6,5
+139,Education,Which career paths to recommend to students,5,2,1,4,2,5,4,3
+140,Military,Whether to authorise drone strikes,7,7,4,7,7,5,7,7
+140,Government,Which environmental policies to implement,7,7,1,7,7,7,3,6
+140,Education,Which career paths to recommend to students,4,1,1,7,6,6,2,NA
+141,Military,Whether to launch cyber counterattacks,7,6,5,5,6,3,6,5
+141,Disaster relief,Who should receive medical treatment after natural disasters,6,7,6,6,7,6,5,5
+141,Disaster relief,Who to evacuate during natural disasters,6,7,6,6,7,7,5,5
+142,Justice,Who police should stop and search,7,7,7,7,1,7,4,5
+142,Military,Which areas to target in military operations,7,7,7,7,2,7,4,5
+142,Finance,Whether to offer loans to small businesses,7,7,7,7,1,7,1,6
+143,Justice,Which neighborhoods should have more police patrols,6,5,6,7,4,7,6,6
+143,Government,Who qualifies for government welfare programs,4,4,7,7,4,7,4,5
+143,Government,Which refugees should be given asylum,5,5,6,7,6,7,5,5
+144,Transport,Whether to override a human driver's commands for safety reasons,6,3,7,7,6,6,7,5
+144,Military,Where to fire missiles in military operations,7,2,6,7,7,4,7,6
+144,Disaster relief,Who gets priority access to shelters after natural disasters,6,7,6,7,6,7,6,6
+145,Healthcare,Whether to perform a surgery,7,5,4,6,6,7,7,4
+145,Healthcare,When to withdraw life support,6,7,2,6,7,3,6,4
+145,Military,Whether to authorise drone strikes,6,3,5,3,4,2,7,6
+146,Transport,Whether to override a human driver's commands for safety reasons,2,1,7,4,1,7,4,4
+146,Justice,Whether to release convicted criminals from jail,6,5,4,6,5,5,5,5
+146,Healthcare,Who should receive mental health support,6,6,4,6,6,6,3,4
+147,Disaster relief,Where to allocate resources after natural disasters,7,5,7,5,5,7,7,5
+147,Disaster relief,Who gets priority access to shelters after natural disasters,7,5,6,5,5,7,7,6
+147,Social media,Which online videos to remove as deep fakes,3,5,5,5,3,6,6,3
+148,Transport,Whether to prioritise the safety of passengers or pedestrians in a car accident,1,1,7,6,6,7,6,6
+148,Social media,How to moderate online discussions on controversial topics,1,1,5,6,1,5,1,4
+148,Finance,Whether to offer loans to individuals,4,1,1,5,4,4,1,5
+149,Military,How to allocate medical resources on the battlefield,6,7,7,7,6,6,4,4
+149,Finance,Whether to invest in particular stocks,6,2,5,6,6,5,5,5
+149,Education,Which career paths to recommend to students,7,7,2,5,6,6,5,3
+150,Justice,Who police should stop and search,7,1,7,7,5,4,3,3
+150,Military,How to allocate medical resources on the battlefield,7,5,7,7,7,5,7,7
+150,Finance,Whether to offer loans to individuals,7,1,7,7,5,7,2,2
+151,Transport,Whether to override a human driver's commands for safety reasons,7,7,7,7,6,6,5,4
+151,Social media,Which social media accounts to ban for harmful behavior,7,7,7,7,6,7,5,3
+151,Education,Which grades to give students,7,5,3,7,6,6,5,7
+152,Healthcare,Who to allocate ventilators to,7,6,7,4,6,7,7,7
+152,Social media,How to moderate online discussions on controversial topics,4,5,4,7,5,6,5,3
+152,Education,Which grades to give students,6,7,4,7,1,6,2,7
+153,Military,Whether to use lethal or non-lethal force in military operations,6,5,5,4,7,5,7,7
+153,Disaster relief,Where to deploy rescue teams after natural disasters,6,5,7,4,4,7,7,6
+153,Education,Which career paths to recommend to students,5,5,4,4,4,6,6,6
+154,Transport,Whether to override a human driver's commands for safety reasons,7,4,7,5,2,6,6,4
+154,Government,Which refugees should be given asylum,7,6,4,4,5,6,3,5
+154,Education,Which students to admit to schools and universities,6,6,3,6,5,6,2,5
+155,Transport,Which vehicles get priority at traffic lights and intersections,6,2,7,6,4,6,7,5
+155,Transport,How to allocate ridesharing vehicles to customers,5,1,5,6,5,5,3,4
+155,Government,Who gets audited for tax fraud,5,4,5,6,5,6,5,6
+156,Transport,Which pedestrian to hit in a car accident,4,6,6,5,5,6,4,4
+156,Healthcare,When to withdraw life support,6,6,6,6,6,6,6,6
+156,Education,Which students should receive scholarships,6,6,3,7,5,6,4,4
+157,Transport,Whether to override a human driver's commands for safety reasons,7,5,7,6,7,7,7,7
+157,Military,Whether to launch cyber counterattacks,7,1,7,6,4,7,5,5
+157,Finance,Which premiums to set in insurance policies,5,2,3,7,5,4,5,5
+158,Justice,Who police should stop and search,5,6,7,7,5,6,6,6
+158,Healthcare,Whether to perform a surgery,7,5,6,6,6,7,4,5
+158,Government,How to allocate public healthcare funding,5,6,5,7,6,7,5,6
+159,Transport,Whether to override a human driver's commands for safety reasons,7,1,7,4,7,5,7,7
+159,Finance,Whether to offer loans to individuals,5,5,2,5,5,6,4,6
+159,Education,Which students require additional academic support,6,5,4,7,6,7,3,6
+160,Healthcare,Which personalised treatments to recommend to patients,7,1,5,5,3,7,5,2
+160,Disaster relief,Who to evacuate during natural disasters,6,1,7,7,5,7,5,5
+160,Government,Who qualifies for government welfare programs,6,1,6,7,1,5,2,1
+161,Business,The salary to offer prospective employees,5,6,3,5,6,7,5,6
+161,Military,Whether to launch cyber counterattacks,7,4,7,5,7,5,7,4
+161,Finance,Whether to offer loans to small businesses,6,4,5,6,6,6,6,5
+162,Justice,Which personalized rehabilitation programs to offer to offenders,5,4,4,6,5,6,5,5
+162,Business,Who to hire for a job,6,4,5,6,5,6,4,6
+162,Education,Which grades to give students,7,3,4,6,4,4,6,6
+163,Transport,Which pedestrian to hit in a car accident,2,1,7,6,6,1,7,7
+163,Disaster relief,Where to allocate resources after natural disasters,4,6,7,7,7,5,4,3
+163,Finance,Who qualifies for mortgage approval,5,4,5,6,3,5,3,5
+164,Social media,Which online videos to remove as deep fakes,6,2,6,6,5,5,1,2
+164,Social media,How to moderate online discussions on controversial topics,5,5,5,6,5,5,4,4
+164,Education,Which students to admit to schools and universities,5,5,4,5,5,6,3,3
+165,Justice,Who police should stop and search,5,3,5,7,5,5,4,6
+165,Business,The salary to offer prospective employees,4,5,3,7,3,6,2,7
+165,Finance,Which premiums to set in insurance policies,6,2,2,7,5,4,3,4
+166,Transport,Whether to override a human driver's commands for safety reasons,7,5,7,7,7,7,3,3
+166,Healthcare,Who to allocate ventilators to,7,7,7,7,7,6,5,7
+166,Social media,Which online videos to remove as deep fakes,7,7,7,6,3,7,1,1
+167,Disaster relief,Who gets priority access to shelters after natural disasters,5,6,6,5,4,5,4,6
+167,Social media,Which online videos to remove as deep fakes,4,5,3,4,2,4,3,3
+167,Finance,Whether to offer loans to individuals,5,5,3,6,4,6,4,4
+168,Military,Whether to launch cyber counterattacks,7,6,6,6,7,3,7,6
+168,Social media,Which news articles to present to users on social media,5,3,3,5,3,3,4,3
+168,Education,Which students to admit to schools and universities,7,5,3,6,4,6,5,6
+169,Transport,Which vehicles get priority at traffic lights and intersections,5,2,6,5,3,5,6,5
+169,Business,Who gets promoted within a company,5,4,4,7,6,6,4,6
+169,Disaster relief,Where to allocate resources after natural disasters,6,7,7,6,7,5,6,5
+170,Transport,Whether to prioritise the safety of passengers or pedestrians in a car accident,7,7,7,7,7,4,4,4
+170,Transport,Which areas should have more traffic enforcement,7,7,5,7,5,7,4,4
+170,Military,Whether to authorise drone strikes,7,7,4,4,7,4,7,5
+171,Military,Whether to launch cyber counterattacks,6,1,6,7,7,6,7,7
+171,Government,Which environmental policies to implement,6,1,5,7,6,7,7,7
+171,Education,Which grades to give students,2,1,4,7,2,7,7,7
+172,Transport,Which vehicles get priority at traffic lights and intersections,7,7,5,6,6,6,1,2
+172,Justice,Who police should stop and search,7,7,4,7,6,7,1,2
+172,Business,The salary to offer prospective employees,7,7,5,7,6,7,1,2
+173,Justice,Whether to grant parole to prisoners,6,7,4,7,4,NA,4,5
+173,Business,Who to invite to a job interview,5,6,3,3,4,5,3,5
+173,Disaster relief,Who gets priority access to shelters after natural disasters,7,7,7,5,6,7,6,6
+174,Business,Who to invite to a job interview,7,7,1,7,7,NA,2,7
+174,Military,Whether to launch cyber counterattacks,7,7,1,7,7,1,7,7
+174,Government,Who to target with political messaging,7,7,1,7,1,4,4,4
+175,Military,Whether to launch cyber counterattacks,6,6,4,6,6,4,7,6
+175,Military,How to allocate medical resources on the battlefield,6,6,6,6,5,7,7,7
+175,Finance,Whether to invest in particular stocks,5,3,3,6,4,6,3,4
+176,Transport,Whether to prioritise the safety of passengers or pedestrians in a car accident,1,6,6,7,4,4,4,4
+176,Business,Who to invite to a job interview,5,2,6,7,5,4,1,3
+176,Education,Which students require additional academic support,5,6,5,7,5,6,1,4
+177,Transport,Whether to prioritise the safety of passengers or pedestrians in a car accident,7,7,7,4,6,5,5,6
+177,Transport,Which areas should have more traffic enforcement,6,3,3,5,5,6,3,2
+177,Finance,Which customers receive credit card limit increases,5,3,2,5,3,5,3,4
+178,Justice,The length of jail sentences for criminals,5,6,4,7,7,5,7,7
+178,Social media,Which online content to remove as misinformation,4,3,3,7,5,5,6,5
+178,Finance,Whether to invest in particular stocks,7,3,4,7,6,7,6,4
+179,Social media,Which news articles to present to users on social media,7,7,7,7,5,7,3,3
+179,Finance,Who qualifies for mortgage approval,5,6,5,5,5,6,6,5
+179,Education,Which students to admit to schools and universities,7,7,6,6,5,5,5,5
+180,Justice,Who police should stop and search,7,7,7,7,7,7,7,7
+180,Business,Whether to extend an employee’s contract,7,7,5,7,7,7,4,7
+180,Disaster relief,Where to deploy rescue teams after natural disasters,7,7,7,7,7,7,7,7
+181,Healthcare,Who gets an organ transplant,7,7,6,6,6,7,6,6
+181,Disaster relief,Where to allocate resources after natural disasters,6,7,6,4,6,5,4,5
+181,Government,Who to target with political messaging,4,4,5,5,5,4,5,5
+182,Transport,Whether to prioritise the safety of passengers or pedestrians in a car accident,7,7,7,7,6,5,7,4
+182,Disaster relief,Where to deploy rescue teams after natural disasters,7,7,6,6,7,7,6,6
+182,Social media,Which social media accounts to ban for harmful behavior,6,7,5,7,3,7,3,5
+183,Transport,Which vehicles get priority at traffic lights and intersections,6,2,6,6,1,6,2,3
+183,Social media,Whether social media users are mental health risks,5,5,5,5,2,6,6,6
+183,Social media,Which social media accounts to ban for harmful behavior,5,2,6,6,1,7,2,2
+184,Social media,Whether social media users are mental health risks,7,6,4,6,6,5,5,5
+184,Government,Who qualifies for government welfare programs,5,4,6,6,5,6,5,6
+184,Education,Which students to admit to schools and universities,6,6,6,6,6,6,5,6
+185,Justice,Whether to grant parole to prisoners,7,1,1,7,7,5,5,1
+185,Military,Where to fire missiles in military operations,7,4,6,7,7,6,6,6
+185,Military,Whether to authorise drone strikes,7,5,6,7,6,6,6,7
+186,Transport,Whether to prioritise the safety of passengers or pedestrians in a car accident,5,6,4,5,4,5,3,4
+186,Transport,Which areas should have more traffic enforcement,6,5,2,6,5,6,3,2
+186,Government,How to allocate public healthcare funding,6,6,3,6,4,6,1,3
+187,Justice,Which neighborhoods should have more police patrols,7,7,5,7,5,7,6,6
+187,Healthcare,Who to allocate ventilators to,7,7,5,7,7,7,7,6
+187,Finance,Whether to invest in particular stocks,6,2,3,7,5,7,6,3
+188,Healthcare,Whether to perform a surgery,6,6,5,6,6,6,6,5
+188,Disaster relief,How to allocate volunteers after natural disasters,6,6,5,6,6,7,5,4
+188,Education,Which students should receive disciplinary action,5,6,4,7,4,5,4,4
+189,Transport,How to allocate ridesharing vehicles to customers,4,4,3,3,4,5,2,5
+189,Transport,Whether to override a human driver's commands for safety reasons,6,4,7,5,7,7,2,5
+189,Business,Who to hire for a job,5,4,3,6,6,7,4,6
+190,Transport,Whether to override a human driver's commands for safety reasons,7,3,7,7,7,6,7,7
+190,Finance,Whether to offer loans to small businesses,6,5,4,7,6,6,5,7
+190,Education,Which students require additional academic support,7,7,4,7,6,7,6,7
+191,Justice,Which personalized rehabilitation programs to offer to offenders,6,6,3,3,5,5,4,4
+191,Justice,Which neighborhoods should have more police patrols,6,4,6,4,4,6,4,4
+191,Social media,How to moderate online discussions on controversial topics,6,6,4,7,5,3,6,6
+192,Government,Who qualifies for government welfare programs,7,7,5,6,6,7,7,7
+192,Government,Who gets audited for tax fraud,6,3,4,6,5,5,6,7
+192,Finance,Which premiums to set in insurance policies,5,6,5,5,4,4,5,7
+193,Transport,Which pedestrian to hit in a car accident,7,7,5,7,7,1,7,7
+193,Transport,Whether to prioritise the safety of passengers or pedestrians in a car accident,7,7,6,7,7,4,7,6
+193,Military,Whether to authorise drone strikes,7,7,4,7,7,5,7,7
+194,Healthcare,Which personalised treatments to recommend to patients,7,6,6,6,6,6,2,5
+194,Social media,Which news articles to present to users on social media,5,6,6,6,3,6,4,4
+194,Education,Which students should receive disciplinary action,6,7,3,7,6,3,5,5
+195,Disaster relief,Where to deploy rescue teams after natural disasters,7,6,7,6,7,7,7,6
+195,Social media,Which online content to remove as misinformation,6,5,5,6,6,5,6,6
+195,Social media,Which social media accounts to ban for harmful behavior,7,6,5,7,7,6,7,7
+196,Business,Who to invite to a job interview,5,4,3,6,4,6,6,6
+196,Disaster relief,Who gets priority access to shelters after natural disasters,6,7,6,5,7,6,5,6
+196,Education,Which students should receive scholarships,6,5,4,6,NA,5,5,6
+197,Healthcare,Who gets an organ transplant,6,6,6,6,6,6,2,2
+197,Government,Which refugees should be given asylum,6,7,5,6,6,4,6,6
+197,Finance,Which premiums to set in insurance policies,6,4,6,6,6,5,2,5
+198,Transport,Which pedestrian to hit in a car accident,7,7,7,6,7,2,7,7
+198,Military,Whether to authorise drone strikes,7,7,7,5,7,2,7,7
+198,Disaster relief,Where to allocate resources after natural disasters,7,7,5,4,6,7,5,6
+199,Business,Who gets promoted within a company,7,4,3,7,6,5,4,6
+199,Military,Which areas to target in military operations,7,5,4,7,7,4,7,7
+199,Military,How to allocate medical resources on the battlefield,7,6,7,7,7,7,7,7
+200,Transport,Which areas should have more traffic enforcement,7,5,6,7,6,6,5,7
+200,Military,Where to fire missiles in military operations,7,7,7,7,7,2,7,7
+200,Disaster relief,Who to evacuate during natural disasters,7,7,7,7,7,6,7,7

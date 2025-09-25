@@ -1,0 +1,206 @@
+id,age,gender,attention,enjoy,length,feedback,openended
+1,38,Female,TikTok,3,3,NA,NA
+2,50,Female,TikTok,6,3,no thanks,no thanks
+3,40,Male,TikTok,5,4,NA,NA
+4,31,Female,TikTok,7,4,NA,NA
+5,38,Female,TikTok,6,4,No thanks :),NA
+6,48,Female,TikTok,5,3,NA,NA
+7,46,Female,TikTok,6,4,NA,NA
+8,31,Female,TikTok,6,3,NA,NA
+9,23,Male,TikTok,1,3,NA,NA
+10,40,Female,TikTok,3,3,"definetly does not feel like a game, feels like a study on how much people trust AI",NA
+11,40,Female,TikTok,4,4,NA,NA
+12,47,Female,TikTok,6,3,It was enjoyable and some of the questions were really thought-provoking.,NA
+13,46,Female,TikTok,3,3,NA,NA
+14,19,Female,TikTok,5,3,NA,NA
+15,45,Female,TikTok,7,3,no problems all clear,no all ok
+16,44,Male,TikTok,7,5,"i enjoyed it i could easily have spent about 30 mins doing this,plus its interesting",NA
+17,50,Male,TikTok,7,4,NA,NA
+18,29,Female,TikTok,4,3,NA,NA
+19,29,Female,TikTok,4,3,NA,NA
+20,48,Female,TikTok,4,4,NA,NA
+21,36,Female,TikTok,6,3,NA,NA
+22,23,Male,TikTok,3,5,NA,NA
+23,69,Male,TikTok,2,3,NA,NA
+24,23,Male,TikTok,5,3,NA,NA
+25,33,Male,TikTok,6,4,NA,NA
+26,51,Female,TikTok,5,3,NA,NA
+27,44,Male,TikTok,6,3,NA,NA
+28,27,Female,TikTok,2,3,NA,NA
+29,25,Female,TikTok,7,5,NA,NA
+30,43,Male,TikTok,4,3,NA,NA
+31,22,Male,TikTok,4,3,NA,NA
+32,25,Female,TikTok,4,3,NA,NA
+33,62,Female,TikTok,4,3,No,NA
+34,28,Male,TikTok,5,3,NA,NA
+35,27,Male,TikTok,5,2,NA,NA
+36,30,Male,TikTok,6,4,NA,NA
+37,61,Male,TikTok,4,4,no,no
+38,38,Male,TikTok,5,4,NA,NA
+39,35,Male,TikTok,7,3,N/A,N/A
+40,41,Male,TikTok,6,3,Best of luck,good luck
+41,31,Female,TikTok,4,3,NA,NA
+42,45,Male,TikTok,7,3,NA,NA
+43,30,Female,TikTok,3,2,NA,NA
+44,39,Male,TikTok,7,3,All good thank you,NA
+45,46,Female,TikTok,4,3,It would be good to have your answers summarised at the end.,NA
+46,58,Female,TikTok,7,3,Very thorny! Very interesting scenarios!,Interesting!
+47,23,Male,TikTok,5,4,NA,NA
+48,44,Female,TikTok,5,3,NA,NA
+49,41,Female,TikTok,6,3,NA,NA
+50,48,Female,TikTok,5,4,NA,NA
+51,59,Female,TikTok,7,3,None to add,NA
+52,51,Female,TikTok,4,3,NA,NA
+53,41,Female,TikTok,6,3,NA,NA
+54,34,Female,TikTok,7,3,NA,NA
+55,26,Female,TikTok,6,3,no,no
+56,59,Female,TikTok,6,3,no,no
+57,41,Female,TikTok,4,3,NA,NA
+58,29,Male,TikTok,6,3,"No other feedback, thank you.",NA
+59,59,Male,TikTok,5,3,NA,NA
+60,40,Male,TikTok,3,3,NA,NA
+61,47,Male,TikTok,4,3,What game?,none
+62,43,Male,TikTok,5,4,nope!,NA
+63,42,Female,YouTube,3,2,NA,NA
+64,52,Male,TikTok,6,3,NA,NA
+65,47,Male,TikTok,5,3,N/A,N/A
+66,33,Male,TikTok,4,3,None,NA
+67,41,Female,TikTok,5,3,NA,NA
+68,56,Female,TikTok,6,3,NA,NA
+69,35,Female,TikTok,3,2,A counter to know how many questions you have done or have left could be good,NA
+70,53,Male,TikTok,6,3,NA,NA
+71,54,Male,TikTok,5,3,Very short of nuance.,None.
+72,39,Female,TikTok,7,3,none,none
+73,59,Male,TikTok,5,2,It was interesting to do,NA
+74,25,Male,TikTok,7,3,NA,NA
+75,61,Male,TikTok,7,3,NA,NA
+76,37,Male,TikTok,4,3,NA,NA
+77,34,Male,TikTok,7,3,NA,NA
+78,58,Female,TikTok,5,3,none,no
+79,38,Male,TikTok,7,3,Really enjoyed the research and content. Please keep posting AI Ethics research!,NA
+80,22,Male,TikTok,7,3,NA,NA
+81,64,Male,TikTok,6,3,NA,NA
+82,55,Male,TikTok,6,3,NA,NA
+83,49,Female,TikTok,7,4,NA,NA
+84,57,Female,TikTok,6,3,good luck with this study and the game.  thanks,good luck
+85,62,Female,TikTok,4,3,NA,NA
+86,54,Female,TikTok,5,3,NA,NA
+87,61,Male,TikTok,6,3,none,no
+88,67,Male,TikTok,5,3,NA,NA
+89,37,Female,TikTok,6,4,"Enjoyable study and game, thank you.",NA
+90,62,Female,TikTok,5,4,NA,NA
+91,55,Male,TikTok,6,3,NA,NA
+92,53,Female,TikTok,3,3,"I think it is difficult to know if when you say ""should AI advise"", the advice would then be seen by a real person, and considered. If AI could provide arguments for and against, it might help, but if a reviewer was too much guided by AI, they might just agree with it regardless.",NA
+93,40,Male,TikTok,6,3,NA,NA
+94,39,Male,TikTok,5,3,NA,NA
+95,42,Female,TikTok,5,3,No,No
+96,38,Male,TikTok,5,3,NA,NA
+97,32,Female,TikTok,3,3,I don't feel I know enough about all these circumstances so it hurts my head to say if they are right or not when I don't know a definite answer.,NA
+98,56,Female,TikTok,6,4,NA,NA
+99,64,Female,TikTok,5,3,NA,NA
+100,58,Female,TikTok,6,3,NA,NA
+101,45,Male,TikTok,7,3,NA,NA
+102,24,Male,TikTok,6,3,none,NA
+103,42,Female,TikTok,6,4,none,n/a
+104,52,Male,TikTok,7,3,NA,NA
+105,28,Female,TikTok,4,3,"No, it all ran smoothly.",NA
+106,54,Female,TikTok,3,3,I did not view this task  as a game,NA
+107,41,Male,TikTok,7,3,NA,NA
+108,25,Male,TikTok,7,3,Well laid out game,NA
+109,31,Female,TikTok,5,3,NA,NA
+110,52,Female,TikTok,4,3,N/A,No.
+111,31,Non-binary / third gender,TikTok,5,3,NA,NA
+112,46,Male,TikTok,6,3,"not really, everything was good.",NA
+113,56,Male,TikTok,6,4,NA,NA
+114,29,Male,TikTok,6,5,NA,NA
+115,47,Male,TikTok,7,3,The study was really engaging and thought-provoking.,NA
+116,32,Female,TikTok,6,3,NA,NA
+117,29,Female,TikTok,7,3,"It was pretty straightforward and easy to go through, should be an excellent game once it's refined and given a pollished UI.",NA
+118,36,Male,Facebook,5,3,N\A,NA
+119,40,Male,TikTok,6,3,good study and offered food for thought on AI's involvement in everyday life.,"good study enjoyed it, food for thought on AI's involvement in everyday life."
+120,26,Male,TikTok,6,4,NA,NA
+121,60,Male,TikTok,5,4,The question about lethal force is a tough one but i suppose i would trust the decision more to an artificial intelligence than to an orange man with no intelligence,NA
+122,78,Female,TikTok,6,3,Interesting.,NA
+123,32,Male,TikTok,2,3,NA,NA
+124,43,Female,TikTok,5,3,NA,NA
+125,42,Male,TikTok,4,3,"It didn't feel like a game to me at all, just a list of questions. I think it needs to be more 'gamified' to be called a game in my opinion e.g points rewards, graphics, high scores, this sort of thing.",NA
+126,72,Female,TikTok,6,3,NA,"Was very interesting, difficult to answer as things aren’t always black or white"
+127,20,Male,Other,7,3,NA,NA
+128,26,Female,TikTok,6,3,NA,NA
+129,65,Male,TikTok,7,4,NA,NA
+130,59,Female,TikTok,6,3,NA,NA
+131,62,Female,TikTok,5,3,"Maybe give the player some feedback, such as how their answers compare with those of other players.",NA
+132,56,Female,TikTok,4,3,"If the game is clicking through the scenarios and answering solo, it would not be much fun.  But if is the question were raised within groups/families, it could be more entertaining",NA
+133,27,Female,TikTok,5,3,It didn't feel much like a game,No
+134,31,Female,TikTok,7,4,NONE,NONE
+135,43,Male,TikTok,7,3,i found it very interesting thank you,NA
+136,58,Male,TikTok,5,3,NA,NA
+137,51,Female,TikTok,5,3,it was interesting to think about each question,no
+138,60,Female,TikTok,4,3,NA,NA
+139,47,Female,TikTok,6,4,Give more hypothetical scenarios,NA
+140,64,Male,TikTok,6,3,NA,NA
+141,59,Female,TikTok,4,4,if it's for a game then maybe include if it's with or without human oversight as a heading on each page as a reminder,NA
+142,73,Female,TikTok,7,3,NA,NA
+143,70,Female,TikTok,3,3,Yes/No was too black and white,NA
+144,32,Male,TikTok,6,3,It was clear and easy to follow along with. Maybe it would be more useful if it showed some possible consequences of choosing or not choosing the AI. I think that could be quite interesting,Thanks very much!
+145,45,Male,TikTok,6,3,None,NA
+146,73,Male,TikTok,7,3,NA,NA
+147,53,Male,TikTok,5,3,No.,No.
+148,60,Male,TikTok,6,3,no,no
+149,67,Male,TikTok,6,4,NA,NA
+150,44,Male,TikTok,7,3,NA,NA
+151,33,Female,TikTok,6,3,NA,NA
+152,65,Male,TikTok,5,2,NA,NA
+153,48,Female,TikTok,4,3,"Everything worked well, thank you.","Everything worked well, thank you."
+154,49,Female,TikTok,6,3,NA,NA
+155,49,Male,TikTok,6,3,"I think it is an interesting game, which sparks argument and contemplation. I enjoyed and it ran smoothly.",It ran smoothly.
+156,36,Female,TikTok,5,3,no,no
+157,45,Male,TikTok,7,3,no everything was very clear to understand. thanks,no
+158,44,Male,TikTok,6,4,"I really enjoyed answering the questions. A lot of them were really tough choices that made me think about both sides of the coin, but I really enjoy doing things like that so found it very interesting!","Thank you for letting me take part, I really enjoyed it and found it very interesting!"
+159,36,Male,TikTok,7,3,I enjoyed thinking about it what I felt was acceptable and what wasn't.,NA
+160,44,Male,TikTok,5,3,Nothing further to add,NA
+161,54,Male,TikTok,6,4,I approached the decisions on the basis that AI has great potential to make sensitive decisions with less chance of bias / favouritism (provided it has been coded correctly).,"AI has the potential to inform bureaucratic decisions, being able to decide without fear or favour."
+162,29,Prefer not to say,TikTok,6,3,NA,NA
+163,80,Male,TikTok,7,3,NA,NA
+164,61,Female,TikTok,4,3,NA,NA
+165,24,Female,TikTok,7,4,N/A,NA
+166,51,Female,TikTok,7,3,Would love to know results/other peoples choices,no
+167,33,Male,TikTok,6,3,n/a,n/a
+168,31,Female,TikTok,6,3,NA,NA
+169,35,Male,TikTok,6,4,NA,NA
+170,51,Male,TikTok,6,3,I was a little basic to look at. Maybe larger lettering and graphics to make it look more appealing,NA
+171,71,Male,TikTok,5,4,"A game should have a hook, also scenarios could be presented in a more interesting way and in a way where one thing leads to another in a natural way.","Morals vary by culture, need and circumstance. Is there even such a thing as definitive universal morality?"
+172,28,Male,TikTok,5,3,none,n/a
+173,56,Male,TikTok,6,4,Choosing the value of morality will always be a very debatable subject. Whether it is by a human or an AI,NA
+174,48,Female,TikTok,7,3,NA,NA
+175,70,Female,TikTok,7,3,IT MADE ME THINK,I think AI has a fantastic contribution to make alongside human empathy
+176,37,Female,TikTok,6,3,NA,NA
+177,56,Male,TikTok,5,3,Good game good game,No
+178,22,Female,TikTok,6,3,"Very fun and interesting, thank you",NA
+179,41,Male,TikTok,7,3,NA,NA
+180,37,Male,TikTok,6,2,"I felt it was slightly too long because some of the questions felt repetitive when questioning intent. Furthermore, without asking for feedback, it became more of a ticking exercise, rather than asking me to critically think about issues at hand.",NA
+181,47,Female,TikTok,7,3,NA,NA
+182,58,Female,TikTok,6,3,Quite interesting,NA
+183,38,Female,TikTok,2,2,I would have liked to have not automatically gone on to the next Q.I wished to change one answer,NA
+184,68,Female,TikTok,5,3,only that it could give some ideas about the potential outcomes of choices which would be interesting.,NA
+185,61,Female,TikTok,7,5,Found it really engaging and enjoyed it.,NA
+186,34,Male,TikTok,7,3,NA,NA
+187,47,Male,TikTok,6,3,"Thank you, it's an interesting game with interesting and challenging questions.
+
+Should there be 'probably not / maybe / probably' options?",Thank you
+188,44,Male,TikTok,4,3,Nothing springs to mind.,No.
+189,56,Male,TikTok,6,3,Quite interesting got me thinking,Enjoyed it
+190,63,Male,TikTok,4,3,"I guess the word 'advise' covers a lot or territory. There are things it would be only prudent to take a look at AI results as part of the picture, but not to just rubber stamp them.
+
+In there words there is spectrum between AI making policy but an official signs off and has responsibility, and AI results being sought as part of a decision-making toolkit.",NA
+191,28,Female,TikTok,4,3,NA,NA
+192,27,Male,TikTok,4,3,NA,NA
+193,53,Female,TikTok,7,3,Enjoyable,Enjoyed participating. Thank you
+194,77,Male,TikTok,5,3,I'd rather have AI advise than make a firm decision where real people are going to be affected.,Already answered
+195,34,Male,TV,5,3,none,NA
+196,45,Male,TikTok,6,4,"Good and simple. It could have been longer, but then I would also expect to be rewarded more.
+",NA
+197,45,Female,TikTok,6,3,"I trust AI than humans in certain cases, and I believe it is genuine and honest although sometimes can be biased","It was interesting survey and easy to understand and complete, many thanks"
+198,34,Male,TikTok,7,3,no,no
+199,57,Male,TikTok,7,3,NA,NA
+200,32,Female,TikTok,6,3,None,NA
