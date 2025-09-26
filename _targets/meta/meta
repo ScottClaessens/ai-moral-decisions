@@ -12,12 +12,30 @@ plot_domain|stem|147e559054a5112a|5d0af3759a28857c|dd0da0357b52eb38|707318341||t
 plot_item|stem|4a78c0d00d1edb11|f000adfa91bf1772|6dc2637d80e02137|2086893715||t20357.623932228s|s34919494b|34919494|rds|local|vector|||1.969||
 sessionInfo|stem|4d420e734d24941e|6f338939dd102f8f|2c530c1562a7fbd1|1164010252||t20357.6305587996s|s44b|44|rds|local|vector|||2.36|package 'brms' was built under R version 4.4.3. package 'patchwork' was built under R version 4.4.3. package 'tidyverse' was built under R version 4.4.3. package 'ggplot2' was built under R version 4.4.3|
 plot_cors|stem|1dfb90e5b87bc8a8|9a1c9407ec7acbf7|c20356d1ce87c985|-727877256||t20357.6573505606s|s175992b|175992|rds|local|vector|||0.328||
+fit2_empathy|stem|b7e7f785fd869076|9c6b6d96340a4db7|915eeca4dc2c6d24|426521682||t20357.6719465963s|s34830056b|34830056|rds|local|vector|||436.125|There were 6 divergent transitions after warmup. See https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup to find out why this is a problem and how to eliminate them.. Examine the pairs() plot to diagnose sampling problems . Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable. Running the chains for more iterations may help. See https://mc-stan.org/misc/warnings.html#bulk-ess|
+fit2_transparently|stem|09d477cde37ca512|74f21bb8854bc4af|915eeca4dc2c6d24|-1556024909||t20357.6777573355s|s34744652b|34744652|rds|local|vector|||500.047|Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable. Running the chains for more iterations may help. See https://mc-stan.org/misc/warnings.html#bulk-ess. Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable. Running the chains for more iterations may help. See https://mc-stan.org/misc/warnings.html#tail-ess|
+fit2_quickly|stem|deeb5e033f0a0027|ac912065f1dcfaf8|915eeca4dc2c6d24|-971311781||t20357.6820670879s|s34906188b|34906188|rds|local|vector|||370.125||
+fit2_intelligence|stem|34c2dabd1d4f37ca|e0f690d3ffa53f81|915eeca4dc2c6d24|1703706055||t20357.6863903621s|s34790470b|34790470|rds|local|vector|||371.672|There were 13 divergent transitions after warmup. See https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup to find out why this is a problem and how to eliminate them.. Examine the pairs() plot to diagnose sampling problems . Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable. Running the chains for more iterations may help. See https://mc-stan.org/misc/warnings.html#bulk-ess. Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable. Running the chains for more iterations may help. See https://mc-stan.org/misc/warnings.html#tail-ess|
+fit2_good_outcomes|stem|56fd80ef47024e9e|edec72bd3905d9e9|915eeca4dc2c6d24|-1738837149||t20357.6913136326s|s34910004b|34910004|rds|local|vector|||423.375||
+fit2_harm|stem|6bd6163ee97440f3|508d4c01d8654517|915eeca4dc2c6d24|-1025220615||t20357.6951732935s|s35010283b|35010283|rds|local|vector|||330.828|There were 1 divergent transitions after warmup. See https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup to find out why this is a problem and how to eliminate them.. Examine the pairs() plot to diagnose sampling problems|
+fit2_unfair_outcomes|stem|89405c177470acc8|77358d69c55f032c|915eeca4dc2c6d24|1661575973||t20357.6989800824s|s34942844b|34942844|rds|local|vector|||326.61|There were 10 divergent transitions after warmup. See https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup to find out why this is a problem and how to eliminate them.. Examine the pairs() plot to diagnose sampling problems . Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable. Running the chains for more iterations may help. See https://mc-stan.org/misc/warnings.html#bulk-ess|
+fit2_difficult|stem|da7204811adfe671|dc96ba43b50ac9e1|915eeca4dc2c6d24|-335971636||t20357.7023597477s|s35014559b|35014559|rds|local|vector|||289.766||
+plot_predictor_unfair_outcomes|stem|ba92cce41a1999bd|acf5ff3c26e7ecfe|3536502f6f612c20|-101518373||t20357.7358394504s|s35167316b|35167316|rds|local|vector|||2.047||
+plot_predictor_intelligence|stem|8a961165edc7f174|fc56b589aaf39ff4|50a9c17b02845c0c|873961368||t20357.7358911806s|s35014937b|35014937|rds|local|vector|||1.422||
+plot_predictor_empathy|stem|d0bc79451e8c8eec|4068dd7086078c6f|39672b744f3403dc|723857215||t20357.7359355361s|s35055996b|35055996|rds|local|vector|||1||
+plot_predictor_good_outcomes|stem|1010952d2c2957ee|3bedb27c2567afb0|649b30d2aa3d3b27|-747808726||t20357.7359835318s|s35134396b|35134396|rds|local|vector|||1.047||
+plot_predictor_quickly|stem|ddb5d2648f70e627|e135c3d3c625a9f0|677b7ccb1cbca8d4|1852523880||t20357.7360289226s|s35131048b|35131048|rds|local|vector|||0.969||
+plot_predictor_difficult|stem|a142b223bf1616c7|122ed08ccc0ee20f|3419875a4356d3fa|1751485048||t20357.7360743803s|s35237907b|35237907|rds|local|vector|||0.735||
+plot_predictor_harm|stem|f996ec83c6b1fc46|d16c2b021eba5552|f38d153a9a9b323e|-1551846651||t20357.7361220513s|s35234172b|35234172|rds|local|vector|||1.063||
+plot_predictor_transparently|stem|5a878da330611330|532a7a2dabee10b4|0ca6159191d64f5a|-1402517843||t20357.7361671512s|s34969598b|34969598|rds|local|vector|||0.984||
 plot_verbs|function|a3a0c7dca1124f83
 load_data_perceptions|function|36f2580a0a4468a8
 plot_domains|function|8ef3e73bd6e6f54b
+plot_predictors|function|30cdf7f397bb2c8e
 plot_game_feedback|function|1e725e82809c0bb7
 fit_model1|function|9f47f1388d3eb395
 plot_items|function|b3265f15bbc174ce
+fit_model2|function|691753aa3440b361
 load_data_decisions|function|bc9aca65de81b435
 plot_perceptions_cors|function|546463dff0375216
 load_data_participants|function|5413f36958988371

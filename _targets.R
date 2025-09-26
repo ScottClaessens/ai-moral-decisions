@@ -1,5 +1,7 @@
+options(tidyverse.quiet = TRUE)
 library(targets)
 library(tarchetypes)
+library(tidyverse)
 
 tar_option_set(packages = c("brms", "patchwork", "tidybayes", "tidyverse"))
 tar_source()
@@ -24,6 +26,15 @@ list(
   tar_target(plot_verb, plot_verbs(fit1)),
   tar_target(plot_domain, plot_domains(fit1)),
   tar_target(plot_item, plot_items(fit1)),
+  # fit and plot model 2
+  tar_map(
+    values = tibble(
+      predictor = c("intelligence", "empathy", "quickly", "transparently",
+                    "difficult", "good_outcomes", "harm", "unfair_outcomes")
+    ),
+    tar_target(fit2, fit_model2(data_decisions, data_perceptions, predictor)),
+    tar_target(plot_predictor, plot_predictors(fit2, predictor))
+  ),
   # print session info for reproducibility
   tar_target(
     sessionInfo,
