@@ -8,7 +8,7 @@ plot_game_feedback <- function(data_participants) {
     ) +
     geom_bar(fill = "#63CCCA") +
     scale_x_continuous(
-      name = "How much did you enjoy\nanswering the questions?",
+      name = "Did you enjoy answering the questions?",
       breaks = 1:7
     ) +
     scale_y_continuous(
@@ -25,7 +25,7 @@ plot_game_feedback <- function(data_participants) {
     ) +
     geom_bar(fill = "#42858C") +
     scale_x_continuous(
-      name = "How was the\ngame length?",
+      name = "How was the game length?",
       breaks = 1:5,
       limits = c(0.5, 5.5)
     ) +

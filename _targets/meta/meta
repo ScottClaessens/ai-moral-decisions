@@ -5,10 +5,12 @@ file_decisions|stem|b12757bd5cf002de|23d264e570948cea|2c530c1562a7fbd1|-45475415
 data_participants|stem|484e9e3e10c1f7fd|e7429cff57c6636e|4c5ad28ace15e80c|1170965285||t20357.4417139669s|s4816b|4816|rds|local|vector|||1.046||
 data_decisions|stem|a7af6cfbd71dec43|c66223f67e0c62cf|d9b16ab54fdae205|1591591433||t20357.4454016388s|s17129b|17129|rds|local|vector|||1.656||
 data_perceptions|stem|2d182011f4ab0796|5e3c0c03bb478444|24c5c69158800503|672908309||t20357.4454051665s|s7622b|7622|rds|local|vector|||0.125||
-plot_feedback|stem|e6356821fd0919db|0b1ec5e29699c35c|11589a0a93da9214|1204769589||t20357.4591492175s|s227740b|227740|rds|local|vector|||0.89||
 fit1|stem|bca19f655eb063a5|c7e5123bf70a6453|64a4f660846e33f8|-443962481||t20357.4812422314s|s34748627b|34748627|rds|local|vector|||716.735|There were 1 divergent transitions after warmup. See https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup to find out why this is a problem and how to eliminate them.. Examine the pairs() plot to diagnose sampling problems . Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable. Running the chains for more iterations may help. See https://mc-stan.org/misc/warnings.html#tail-ess|
+plot_feedback|stem|79c4a44dd1e45f1a|0b1ec5e29699c35c|001265f9b99821f9|1204769589||t20357.5157579304s|s227715b|227715|rds|local|vector|||0.328||
+plot_verb|stem|4b9d069cb05fddf1|4783bc90cdb11186|dc36de31d15b2dff|700827728||t20357.5161951782s|s51958970b|51958970|rds|local|vector|||0.875|Method 'posterior_samples' is deprecated. Please see ?as_draws for recommended alternatives.. Using the `size` aesthetic with geom_segment was deprecated in ggplot2 3.4.0. ℹ Please use the `linewidth` aesthetic instead.|
+plot_verbs|function|a3a0c7dca1124f83
 load_data_perceptions|function|36f2580a0a4468a8
-plot_game_feedback|function|f24c017878a68337
+plot_game_feedback|function|1e725e82809c0bb7
 fit_model1|function|9f47f1388d3eb395
 load_data_decisions|function|bc9aca65de81b435
 load_data_participants|function|5413f36958988371
