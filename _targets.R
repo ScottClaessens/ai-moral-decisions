@@ -19,5 +19,7 @@ list(
   tar_target(plot_feedback, plot_game_feedback(data_participants)),
   # fit and plot model 1
   tar_target(fit1, fit_model1(data_decisions)),
-  tar_target(plot_verb, plot_verbs(fit1))
+  tar_target(plot_verb, plot_verbs(fit1)),
+  tar_target(plot_domain, plot_domains(fit1)),
+  tar_target(plot_item, plot_items(fit1))
 )
