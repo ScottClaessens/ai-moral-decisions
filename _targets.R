@@ -1,7 +1,7 @@
 library(targets)
 library(tarchetypes)
 
-tar_option_set(packages = c("patchwork", "tidyverse"))
+tar_option_set(packages = c("brms", "patchwork", "tidyverse"))
 tar_source()
 
 list(
@@ -16,5 +16,7 @@ list(
   tar_target(data_perceptions, load_data_perceptions(file_perceptions,
                                                      data_participants)),
   # plot feedback on game
-  tar_target(plot_feedback, plot_game_feedback(data_participants))
+  tar_target(plot_feedback, plot_game_feedback(data_participants)),
+  # fit model 1
+  tar_target(fit1, fit_model1(data_decisions))
 )
