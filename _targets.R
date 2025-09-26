@@ -17,6 +17,8 @@ list(
                                                      data_participants)),
   # plot feedback on game
   tar_target(plot_feedback, plot_game_feedback(data_participants)),
+  # plot correlations between perceptions of different moral decisions
+  tar_target(plot_cors, plot_perceptions_cors(data_perceptions)),
   # fit and plot model 1
   tar_target(fit1, fit_model1(data_decisions)),
   tar_target(plot_verb, plot_verbs(fit1)),

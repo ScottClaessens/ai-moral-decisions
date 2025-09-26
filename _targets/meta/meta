@@ -10,6 +10,8 @@ plot_feedback|stem|79c4a44dd1e45f1a|0b1ec5e29699c35c|001265f9b99821f9|1204769589
 plot_verb|stem|4b9d069cb05fddf1|4783bc90cdb11186|dc36de31d15b2dff|700827728||t20357.5161951782s|s51958970b|51958970|rds|local|vector|||0.875|Method 'posterior_samples' is deprecated. Please see ?as_draws for recommended alternatives.. Using the `size` aesthetic with geom_segment was deprecated in ggplot2 3.4.0. ℹ Please use the `linewidth` aesthetic instead.|
 plot_domain|stem|147e559054a5112a|5d0af3759a28857c|dd0da0357b52eb38|707318341||t20357.6029181808s|s38585604b|38585604|rds|local|vector|||3.281|Using the `size` aesthetic with geom_segment was deprecated in ggplot2 3.4.0. ℹ Please use the `linewidth` aesthetic instead.|
 plot_item|stem|4a78c0d00d1edb11|f000adfa91bf1772|6dc2637d80e02137|2086893715||t20357.623932228s|s34919494b|34919494|rds|local|vector|||1.969||
+sessionInfo|stem|4d420e734d24941e|6f338939dd102f8f|2c530c1562a7fbd1|1164010252||t20357.6305587996s|s44b|44|rds|local|vector|||2.36|package 'brms' was built under R version 4.4.3. package 'patchwork' was built under R version 4.4.3. package 'tidyverse' was built under R version 4.4.3. package 'ggplot2' was built under R version 4.4.3|
+plot_cors|stem|1dfb90e5b87bc8a8|9a1c9407ec7acbf7|c20356d1ce87c985|-727877256||t20357.6573505606s|s175992b|175992|rds|local|vector|||0.328||
 plot_verbs|function|a3a0c7dca1124f83
 load_data_perceptions|function|36f2580a0a4468a8
 plot_domains|function|8ef3e73bd6e6f54b
@@ -17,5 +19,5 @@ plot_game_feedback|function|1e725e82809c0bb7
 fit_model1|function|9f47f1388d3eb395
 plot_items|function|b3265f15bbc174ce
 load_data_decisions|function|bc9aca65de81b435
+plot_perceptions_cors|function|546463dff0375216
 load_data_participants|function|5413f36958988371
-sessionInfo|stem|4d420e734d24941e|6f338939dd102f8f|2c530c1562a7fbd1|1164010252||t20357.6305587996s|s44b|44|rds|local|vector|||2.36|package 'brms' was built under R version 4.4.3. package 'patchwork' was built under R version 4.4.3. package 'tidyverse' was built under R version 4.4.3. package 'ggplot2' was built under R version 4.4.3|
