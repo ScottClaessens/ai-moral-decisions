@@ -21,5 +21,10 @@ list(
   tar_target(fit1, fit_model1(data_decisions)),
   tar_target(plot_verb, plot_verbs(fit1)),
   tar_target(plot_domain, plot_domains(fit1)),
-  tar_target(plot_item, plot_items(fit1))
+  tar_target(plot_item, plot_items(fit1)),
+  # print session info for reproducibility
+  tar_target(
+    sessionInfo,
+    writeLines(capture.output(sessionInfo()), "sessionInfo.txt")
+  )
 )

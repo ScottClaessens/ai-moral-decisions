@@ -12,7 +12,8 @@ To run this code, you will need to [install R](https://www.r-project.org/) and
 the following R packages:
 
 ```r
-install.packages(c("tarchetypes", "targets"))
+install.packages(c("brms", "patchwork", "tarchetypes", "targets",
+                   "tidybayes", "tidyverse"))
 ```
 
 The code was run using the package versions listed in `sessionInfo.txt`. If
