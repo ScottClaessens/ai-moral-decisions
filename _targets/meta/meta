@@ -1,0 +1,12 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+file_perceptions|stem|d53ecf45eca19ced|ef8baaf4f33a72e5|2c530c1562a7fbd1|541108919|data/data_perceptions.csv|t20356.7309207808s|s45621b|45621|file|local|vector|||2.203|package 'tidyverse' was built under R version 4.4.3. package 'ggplot2' was built under R version 4.4.3|
+file_participants|stem|2fbb4eaedb262de6|0e9cb43cb677960c|2c530c1562a7fbd1|1074486411|data/data_participants.csv|t20356.7308785845s|s11859b|11859|file|local|vector|||0||
+file_decisions|stem|b12757bd5cf002de|23d264e570948cea|2c530c1562a7fbd1|-454754152|data/data_decisions.csv|t20356.7308954091s|s419560b|419560|file|local|vector|||0||
+data_participants|stem|484e9e3e10c1f7fd|e7429cff57c6636e|4c5ad28ace15e80c|1170965285||t20357.4417139669s|s4816b|4816|rds|local|vector|||1.046||
+data_decisions|stem|a7af6cfbd71dec43|c66223f67e0c62cf|d9b16ab54fdae205|1591591433||t20357.4454016388s|s17129b|17129|rds|local|vector|||1.656||
+data_perceptions|stem|2d182011f4ab0796|5e3c0c03bb478444|24c5c69158800503|672908309||t20357.4454051665s|s7622b|7622|rds|local|vector|||0.125||
+plot_feedback|stem|e6356821fd0919db|0b1ec5e29699c35c|11589a0a93da9214|1204769589||t20357.4591492175s|s227740b|227740|rds|local|vector|||0.89||
+load_data_perceptions|function|36f2580a0a4468a8
+plot_game_feedback|function|f24c017878a68337
+load_data_decisions|function|bc9aca65de81b435
+load_data_participants|function|5413f36958988371
